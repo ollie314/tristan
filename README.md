@@ -1,4 +1,4 @@
-# Tristan project ec system
+# Tristan project es system
 
 The aim of the project is to demonstrate the application of a CQRS approach in insurance domain.
 
